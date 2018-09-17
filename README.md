@@ -12,7 +12,7 @@ CNU DataScience Term Project
 스펙트로그램 + CNN
 
 ## 발표 PPT
-[Here]()
+[Here](https://drive.google.com/open?id=1fh1dLMKF5LfI8L1iv44ZZ9Rc2ezdaUWj)
 
 
 
