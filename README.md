@@ -14,4 +14,6 @@ CNU DataScience Term Project
 ## 발표 PPT
 [Here]()
 
-fork from [here](https://github.com/kcs93023/KagglePractice/blob/master/Team_Blog/Kaggle_TeamBlog.ipynb)
+
+
+Project file is fork from [here](https://github.com/kcs93023/KagglePractice/blob/master/Team_Blog/Kaggle_TeamBlog.ipynb)
